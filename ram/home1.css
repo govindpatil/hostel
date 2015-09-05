@@ -1,0 +1,88 @@
+body{
+    background-color: #fffdf1;
+}
+
+#mainbar{
+    background-color: rgba(0, 0, 0, 0.75);
+    height:106px;
+}
+
+#menubar{
+    background-color: #ff6b36;
+    height: 1px;
+    width: 1350px;
+}
+
+
+
+#textone {
+    color: white;
+    font-family: Georgia;
+}
+
+
+#smallbars {
+    background-color: #e1e1e1;
+    width: 75px;
+    float: right;
+}
+
+#sidebar{
+    background-color: cornsilk;
+    height: 174px;
+    width: 228px;
+}
+#textinbox{
+    color: darkkhaki;
+    font-family: Georgia;
+}
+
+#img{
+    height: 150px;
+    width: 150px;
+    border: solid;
+}
+
+
+#footer{
+    background-color: dimgray;
+    height: 33px;
+    width: 350px;
+}
+#footertext{
+    color: #fffdf1;
+    font-size: 20px;
+
+}
+
+#marq{
+    color: #ff6633;
+}
+
+
+#contact
+{
+    color: #555555;
+    background-color: rgba(177, 55, 78, 0.21);
+    height:auto;
+    width: 336px;
+}
+
+
+#addtext{
+    color: cornflowerblue;
+    font-size: 20px;
+}
+.email{
+    color: #FF6633;
+}
+
+#vdo{
+    background-color: #e1e1e1;
+    border: groove;
+    height: 200px;
+    width: 200px;
+}
+#glb{
+    color: cornflowerblue;
+}
